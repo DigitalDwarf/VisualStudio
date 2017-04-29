@@ -1,0 +1,62 @@
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\ApplicationInsights.config
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\roslyn\csc.exe
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\roslyn\csc.exe.config
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\roslyn\csc.rsp
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\roslyn\csi.exe
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\roslyn\csi.rsp
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\roslyn\System.AppContext.dll
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\roslyn\System.Collections.Immutable.dll
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\roslyn\System.IO.FileSystem.dll
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\roslyn\vbc.exe
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\roslyn\vbc.exe.config
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\roslyn\vbc.rsp
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\roslyn\VBCSCompiler.exe
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\roslyn\VBCSCompiler.exe.config
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\ModelViewer - Aiden.dll.config
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\ModelViewer - Aiden.dll
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\ModelViewer - Aiden.pdb
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\Antlr3.Runtime.dll
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\Microsoft.AI.Web.dll
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\Microsoft.AI.WindowsServer.dll
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\Microsoft.ApplicationInsights.dll
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\Microsoft.Web.Infrastructure.dll
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\Newtonsoft.Json.dll
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\System.Web.Optimization.dll
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\WebGrease.dll
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\System.Web.Optimization.xml
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\Antlr3.Runtime.pdb
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\Newtonsoft.Json.xml
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\Microsoft.ApplicationInsights.xml
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\Microsoft.AI.WindowsServer.xml
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\bin\Microsoft.AI.Web.xml
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\obj\Debug\ModelViewer - Aiden.csprojResolveAssemblyReference.cache
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\obj\Debug\ModelViewer - Aiden.dll
+c:\users\dwarf\documents\visual studio 2017\Projects\ModelViewer - Aiden\ModelViewer - Aiden\obj\Debug\ModelViewer - Aiden.pdb
